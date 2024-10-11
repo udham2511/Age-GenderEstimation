@@ -4,7 +4,7 @@
 Can make predictions about age and gender of person.
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/udham2511/Age-GenderEstimation/blob/main/screenshot.gif)
 ## Run Locally
 
 Clone the project
